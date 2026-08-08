@@ -1,0 +1,6 @@
+{
+  "name": "Decision Matrix & Data Analyzer",
+  "description": "Interactive weighted decision matrix tool with multi-dimensional scoring, visual data analysis, sensitivity breakdown, and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
